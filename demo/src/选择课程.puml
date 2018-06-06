@@ -1,0 +1,12 @@
+@startuml
+title 基于GitHub的实验管理平台--选择课程(选课)的顺序图
+actor users
+==教师选课==
+users->teachers:用户以老师的类型登录
+teachers->terms:老师选择对应的学期
+terms->disciplines:选具体的课程，且选课的课程必须在相应的学期下才能选择，以及必须教师先选择。
+==学生选课==
+users->students:用于以学生的类型登录
+students->terms:选择对应的课程
+terms->disciplines:老师选完课程后学生方可进行选课
+@enduml

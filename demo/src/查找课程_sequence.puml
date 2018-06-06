@@ -1,0 +1,13 @@
+@startuml
+title 基于GitHub的实验管理平台--查找课程的顺序图
+actor users
+== 教师查找课程==
+users->teachers:用户以老师的类型登录
+teachers->terms:老师先选择对应的学期
+terms->disciplines:查看相应学期所对应的课程
+== 学生查找课程==
+users->students:用户以学生的类型登录
+students->terms:选择学期
+terms->disciplines:查找相应学期对应的额课程
+
+@enduml

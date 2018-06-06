@@ -1,0 +1,81 @@
+@startuml
+title 基于GitHub的实验管理平台--类图
+class users {
+    <b>user_id</b> （用户ID）
+    name （用户真实姓名）
+    github_username （用户GitHub账号）
+    update_date （用户GitHub账号修改日期）
+    password （用户密码）
+    disable （用户是否禁用）
+}
+
+
+class teachers{
+    <b>teacher_id</b> （老师工号）
+    department （老师所属部门）
+    teacher_term（老师教授的学期）
+    teacher_discipline（老师教授的课程）
+}
+class students{
+    <b>student_id</b> （学号）
+    class （班级）
+    result_sum（成绩汇总）
+    web_sum （网站正确与否汇总）
+    student_term（学生选课的学期）
+    student_discipline（学生选的课程）
+}
+
+users <|- students
+users <|-- teachers
+
+class grades {
+    <b>student_id</b> （学号）
+    <b>experi_id</b> （实验编号）
+    result （最终分数）
+    comment（实验评语）
+    update_date （评改日期）
+    grade_specific（每个实验的多个评分项）
+    grade_present（每个实验占总成绩的百分比）
+}
+
+class experiments {
+    <b>experi_id</b> （实验编号）
+    experi_title （实验名称）
+    experi_term（学期）
+    experi_link（每个实验的链接地址）
+}
+
+class terms{
+    <b>term_id</b>（学期编号）
+    term_name（学期名称）
+}
+
+class disciplines{
+    <b>discipline_id</b>(课程编号)
+    discipline_name(课程名）
+}
+
+class select{
+    <b>select_id</b>（选课ID）
+    <b>discipline_id</b>（课程编号）
+    teacher_id（老师工号）
+    student_id（学生学号）
+    term_id（学期编号）
+}
+class sections{
+    <b>section_id</b>（评分项ID）
+    <b>experi_id</b>（实验编号）
+    section_title（每个评分项的名称）
+    section_percent（每个评分项分数占此实验的百分比）
+}
+
+grades "1" -- "n" sections
+students "1" -- "n"  grades
+experiments "1" -- "n"  grades
+teachers "1" -- "n"  select
+students "1" -- "n"  select
+terms "1" -- "n"  disciplines
+disciplines "1" -- "n" experiments
+terms "1" -- "n"  select
+
+@enduml
