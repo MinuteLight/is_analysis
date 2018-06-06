@@ -1,0 +1,2206 @@
+﻿$axure.loadCurrentPage({
+  "url":"选择学期.html",
+  "generationDate":new Date(1527858166502.72),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"bb6e243a60b74892ac69c0582db84e55",
+    "type":"Axure:Page",
+    "name":"选择学期",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"d08646e3ecd947b0a3abb8fa1d5e2574",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "opacity":"0.1",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF00CCCC},
+            "textShadow":{
+              "on":false,
+              "offsetX":5,
+              "offsetY":5,
+              "blurRadius":5,
+              "color":{
+                "r":0,
+                "g":0,
+                "b":0,
+                "a":0.349019607843137}},
+            "location":{
+              "x":60,
+              "y":10},
+            "size":{
+              "width":1191,
+              "height":840},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF777777}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c9a356f95819427aa7e751300dba571c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "opacity":"0.1",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF00CCCC},
+                "textShadow":{
+                  "on":false,
+                  "offsetX":5,
+                  "offsetY":5,
+                  "blurRadius":5,
+                  "color":{
+                    "r":0,
+                    "g":0,
+                    "b":0,
+                    "a":0.349019607843137}},
+                "location":{
+                  "x":60,
+                  "y":10},
+                "size":{
+                  "width":1191,
+                  "height":840},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF777777}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/首页/u0.png"}},
+{
+          "id":"d7cf307baa4d45b3b150d3ef910a8732",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "fontSize":"36px",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":113,
+              "y":47},
+            "size":{
+              "width":28,
+              "height":46}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2439dc207e9544f38f8f605067f7a893",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "fontSize":"36px",
+                "fontWeight":"700",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":113,
+                  "y":47},
+                "size":{
+                  "width":28,
+                  "height":46}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"e75b311bf94b4502ade9f8f573296941",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "fontWeight":"700",
+            "location":{
+              "x":142,
+              "y":47},
+            "size":{
+              "width":268,
+              "height":48}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"67f54e31d3a2441aa2befe95c47042b9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "fontWeight":"700",
+                "location":{
+                  "x":142,
+                  "y":47},
+                "size":{
+                  "width":268,
+                  "height":48}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"e5e782289cdd45bca3d37ce89fb99088",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":113,
+              "y":118},
+            "size":{
+              "width":957,
+              "height":45}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"094f91a229d94c069f21a6a7fb95bbad",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":113,
+                  "y":118},
+                "size":{
+                  "width":957,
+                  "height":45}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/首页/u6.png"}},
+{
+          "id":"cd10cbe623524a87b2fd6658b26c67b1",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFE6FAFA},
+            "location":{
+              "x":920,
+              "y":128},
+            "size":{
+              "width":80,
+              "height":23},
+            "cornerRadiusTopLeft":"20"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3c83b0d0ebe94bdab13738ee3c1310a6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFE6FAFA},
+                "location":{
+                  "x":920,
+                  "y":128},
+                "size":{
+                  "width":80,
+                  "height":23},
+                "cornerRadiusTopLeft":"20"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 首页",
+                      "target":{
+                        "targetType":"page",
+                        "url":"首页.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/首页/u14.png"}},
+{
+          "id":"fa1c9080429545e5b2175b7063f93d6c",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":170,
+              "y":121},
+            "size":{
+              "width":39,
+              "height":39}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9d14d33c195f4d3c977374b3f6c46359",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":170,
+                  "y":121},
+                "size":{
+                  "width":39,
+                  "height":39}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/首页/u8.png"}},
+{
+          "id":"3d8de90f41184fabae808f1d5a30ec3b",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "fontWeight":"700",
+            "location":{
+              "x":790,
+              "y":73},
+            "size":{
+              "width":184,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8c1538a15dbd40d496a75f9e7ee3efa8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "fontWeight":"700",
+                "location":{
+                  "x":790,
+                  "y":73},
+                "size":{
+                  "width":184,
+                  "height":22}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"2c6c0651b596407d8c5a9a23cfcbd3b4",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFE6FAFA},
+            "location":{
+              "x":980,
+              "y":73},
+            "size":{
+              "width":80,
+              "height":23},
+            "cornerRadiusTopLeft":"20"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b8b69e9be893488c8a762af2f5e6441f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFE6FAFA},
+                "location":{
+                  "x":980,
+                  "y":73},
+                "size":{
+                  "width":80,
+                  "height":23},
+                "cornerRadiusTopLeft":"20"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 Home",
+                      "target":{
+                        "targetType":"page",
+                        "url":"home.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/首页/u14.png"}},
+{
+          "id":"4b3e5f0fed894d72be703f0f0543e340",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "fontSize":"18px",
+            "fontWeight":"700",
+            "location":{
+              "x":492,
+              "y":128},
+            "size":{
+              "width":200,
+              "height":24}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dc3b1535249143488b6dd2b4148a6b84",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "fontSize":"18px",
+                "fontWeight":"700",
+                "location":{
+                  "x":492,
+                  "y":128},
+                "size":{
+                  "width":200,
+                  "height":24}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"359cb923a8d8413d8d45ecbf51ed9e92",
+          "label":"",
+          "type":"table",
+          "styleType":"table",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":138,
+              "y":230},
+            "size":{
+              "width":910,
+              "height":567}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6f1be59fb0ce4e57b8b62f7da44d54cd",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":364,
+                  "y":0},
+                "size":{
+                  "width":182,
+                  "height":72}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"dc9f8d28d36c40a1ba0415719e749dae",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":364,
+                      "y":0},
+                    "size":{
+                      "width":182,
+                      "height":72}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u19.png"}},
+{
+              "id":"5bc78f3a2df048b2b36c1601e393e2d0",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":364,
+                  "y":406},
+                "size":{
+                  "width":182,
+                  "height":83}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"7ca5045d93b2436c8583f1c2f43d0f24",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":364,
+                      "y":406},
+                    "size":{
+                      "width":182,
+                      "height":83}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u69.png"}},
+{
+              "id":"463db115d382423cbee7d38115a1fe82",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":364,
+                  "y":489},
+                "size":{
+                  "width":182,
+                  "height":78}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"76c112cbbef84145821dc6578f569672",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":364,
+                      "y":489},
+                    "size":{
+                      "width":182,
+                      "height":78}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u79.png"}},
+{
+              "id":"8ca08ed511c942e1b87002772c02c7df",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":546,
+                  "y":0},
+                "size":{
+                  "width":182,
+                  "height":72}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"9a1bcd60c8c84fcba290376fea71ddc7",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":546,
+                      "y":0},
+                    "size":{
+                      "width":182,
+                      "height":72}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u19.png"}},
+{
+              "id":"d321ed72b4184ca093a3c7219a794d91",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":546,
+                  "y":406},
+                "size":{
+                  "width":182,
+                  "height":83}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"2c69e88fa7b543d7a71918f1ab469519",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":546,
+                      "y":406},
+                    "size":{
+                      "width":182,
+                      "height":83}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u69.png"}},
+{
+              "id":"d7a86c6f2f514856b41548f67a995137",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":546,
+                  "y":489},
+                "size":{
+                  "width":182,
+                  "height":78}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"caacbf1c36da4e5393551d798fcdfa3b",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":546,
+                      "y":489},
+                    "size":{
+                      "width":182,
+                      "height":78}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u79.png"}},
+{
+              "id":"cb6b6a11499a40289424c4b3ab6dd904",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":728,
+                  "y":0},
+                "size":{
+                  "width":182,
+                  "height":72}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"6d3e7f0904154bdaa8e1398a0c2d7b79",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":728,
+                      "y":0},
+                    "size":{
+                      "width":182,
+                      "height":72}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u27.png"}},
+{
+              "id":"1765651056174ba5a1b13cdb28956c59",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":728,
+                  "y":406},
+                "size":{
+                  "width":182,
+                  "height":83}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"49c9dd049f354d18a98f215c65f36e28",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":728,
+                      "y":406},
+                    "size":{
+                      "width":182,
+                      "height":83}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u77.png"}},
+{
+              "id":"6db438c988294d2a8e9a1768fd527d03",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":728,
+                  "y":489},
+                "size":{
+                  "width":182,
+                  "height":78}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"0e1d2156bf6d407d870d39f441f09423",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":728,
+                      "y":489},
+                    "size":{
+                      "width":182,
+                      "height":78}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u87.png"}},
+{
+              "id":"4e8d18c3394242e4b3bc763e427f250e",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":364,
+                  "y":317},
+                "size":{
+                  "width":182,
+                  "height":89}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"125d23c8c25843108d8169d901e4c979",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":364,
+                      "y":317},
+                    "size":{
+                      "width":182,
+                      "height":89}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u59.png"}},
+{
+              "id":"68beae6ca45b4eae84f6dc6ead17109c",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":546,
+                  "y":317},
+                "size":{
+                  "width":182,
+                  "height":89}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"c579363ed9c44fd4a977f1a973f1babe",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":546,
+                      "y":317},
+                    "size":{
+                      "width":182,
+                      "height":89}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u59.png"}},
+{
+              "id":"93e141847ab140ac8f43ebecf8cedf9f",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":728,
+                  "y":317},
+                "size":{
+                  "width":182,
+                  "height":89}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"b8d3e9c60e094e5c9155669910b5e640",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":728,
+                      "y":317},
+                    "size":{
+                      "width":182,
+                      "height":89}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u67.png"}},
+{
+              "id":"dbcb5e596e62456a8970a279f0d19f2c",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":364,
+                  "y":235},
+                "size":{
+                  "width":182,
+                  "height":82}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"30eddd4a1c3d48daae5fdd5e8cd5e9a7",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":364,
+                      "y":235},
+                    "size":{
+                      "width":182,
+                      "height":82}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u49.png"}},
+{
+              "id":"ec38f8db4b404ab58bee69a288f593c9",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":546,
+                  "y":235},
+                "size":{
+                  "width":182,
+                  "height":82}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"58a57d562fc6436d885c5db8453e7e6e",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":546,
+                      "y":235},
+                    "size":{
+                      "width":182,
+                      "height":82}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u49.png"}},
+{
+              "id":"0ff6f3fb0c394f53aa6f44f6c081fe5b",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":728,
+                  "y":235},
+                "size":{
+                  "width":182,
+                  "height":82}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"c9ddc03875cf4feca57f1e2ea2b5e0a4",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":728,
+                      "y":235},
+                    "size":{
+                      "width":182,
+                      "height":82}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u57.png"}},
+{
+              "id":"0eecd6c768374066b80dc583e7fe7a8f",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":364,
+                  "y":159},
+                "size":{
+                  "width":182,
+                  "height":76}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"5c3a6fdc7a204091beebcfd33b75d83e",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":364,
+                      "y":159},
+                    "size":{
+                      "width":182,
+                      "height":76}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u39.png"}},
+{
+              "id":"2a52b0b379db4195825686ba51233217",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":546,
+                  "y":159},
+                "size":{
+                  "width":182,
+                  "height":76}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"b97543bc945849ba8e90af9428028d52",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":546,
+                      "y":159},
+                    "size":{
+                      "width":182,
+                      "height":76}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u39.png"}},
+{
+              "id":"47291917a1c74e5ea610e7c888bfc295",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":728,
+                  "y":159},
+                "size":{
+                  "width":182,
+                  "height":76}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"bcef65a991e94fd398cd67511359a327",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":728,
+                      "y":159},
+                    "size":{
+                      "width":182,
+                      "height":76}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u47.png"}},
+{
+              "id":"1ab9f0095f814c79a02a8d04c2f8a4b9",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":364,
+                  "y":72},
+                "size":{
+                  "width":182,
+                  "height":87}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"1b3e4f04db5e47719697144f963c45b0",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":364,
+                      "y":72},
+                    "size":{
+                      "width":182,
+                      "height":87}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u29.png"}},
+{
+              "id":"fef3fb6910074630abbb0570ebb0c512",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":546,
+                  "y":72},
+                "size":{
+                  "width":182,
+                  "height":87}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"6d06ae8a067d4347ab9ac6f15164d93a",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":546,
+                      "y":72},
+                    "size":{
+                      "width":182,
+                      "height":87}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u29.png"}},
+{
+              "id":"2882db96f1d54a58b49d3c206a81feaa",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":728,
+                  "y":72},
+                "size":{
+                  "width":182,
+                  "height":87}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"90f9b0027032427f838f897572f6b6d4",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":728,
+                      "y":72},
+                    "size":{
+                      "width":182,
+                      "height":87}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u37.png"}},
+{
+              "id":"ebd7d8a760744a0ba6de00e94cc64b93",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "size":{
+                  "width":182,
+                  "height":72}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"e16f530515fc4ecf85d6aba8cdb1111f",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "size":{
+                      "width":182,
+                      "height":72}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u19.png"}},
+{
+              "id":"01b52b08d980439ca08c37a6b9843deb",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":0,
+                  "y":72},
+                "size":{
+                  "width":182,
+                  "height":87}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"b357b03bce774f41b20e1c873bdd917a",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":0,
+                      "y":72},
+                    "size":{
+                      "width":182,
+                      "height":87}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u29.png"}},
+{
+              "id":"c37bf4bc736a45669e60097f75107298",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":0,
+                  "y":159},
+                "size":{
+                  "width":182,
+                  "height":76}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"3d377de5610d420fbeee5c38d2ceb6d6",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":0,
+                      "y":159},
+                    "size":{
+                      "width":182,
+                      "height":76}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u39.png"}},
+{
+              "id":"b0a89e864ca94fb0837900d3dce98f2f",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":0,
+                  "y":235},
+                "size":{
+                  "width":182,
+                  "height":82}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"068129dd87124911998deab6d881b9b9",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":0,
+                      "y":235},
+                    "size":{
+                      "width":182,
+                      "height":82}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u49.png"}},
+{
+              "id":"8a73c8fe54c54f16bf1b65e641b25481",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":0,
+                  "y":317},
+                "size":{
+                  "width":182,
+                  "height":89}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"d35b1848bdd34221a9802feb913b29b8",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":0,
+                      "y":317},
+                    "size":{
+                      "width":182,
+                      "height":89}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u59.png"}},
+{
+              "id":"a6d70288c3c946559fec6b8d7effcb44",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":0,
+                  "y":406},
+                "size":{
+                  "width":182,
+                  "height":83}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"4f283bb110e34843ad8aed9fd9c9c731",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":0,
+                      "y":406},
+                    "size":{
+                      "width":182,
+                      "height":83}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u69.png"}},
+{
+              "id":"b0c6f6ec69e84388afa2c89476ac07e6",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":0,
+                  "y":489},
+                "size":{
+                  "width":182,
+                  "height":78}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"4c41fd59de754f2aaa2f3affa0f316de",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":0,
+                      "y":489},
+                    "size":{
+                      "width":182,
+                      "height":78}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u79.png"}},
+{
+              "id":"725f7aae23f047499e66a0f4b489b1cb",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":182,
+                  "y":0},
+                "size":{
+                  "width":182,
+                  "height":72}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"17fb63ad504f48418b2b9b9ce16130f3",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":182,
+                      "y":0},
+                    "size":{
+                      "width":182,
+                      "height":72}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u19.png"}},
+{
+              "id":"319f1174b9194bdbb026b74b890650f9",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":182,
+                  "y":72},
+                "size":{
+                  "width":182,
+                  "height":87}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"c2df9db555a4407e95b0ba15dc02a57a",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":182,
+                      "y":72},
+                    "size":{
+                      "width":182,
+                      "height":87}},
+                  "adaptiveStyles":{
+}}],
+              "interactionMap":{
+                "onClick":{
+                  "description":"OnClick",
+                  "cases":[{
+                      "description":"用例 1",
+                      "isNewIfGroup":false,
+                      "actions":[{
+                          "action":"linkWindow",
+                          "description":"在 当前窗口 打开 选择课程",
+                          "target":{
+                            "targetType":"page",
+                            "url":"选择课程.html",
+                            "includeVariables":true},
+                          "linkType":"current"}]}]}},
+              "tabbable":true,
+              "images":{
+                "normal~":"images/选择学期/u29.png"}},
+{
+              "id":"51aabbad391a41e4a70882205871a4a4",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":182,
+                  "y":159},
+                "size":{
+                  "width":182,
+                  "height":76}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"e8b8548f9bf9407f9245039403a99f88",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":182,
+                      "y":159},
+                    "size":{
+                      "width":182,
+                      "height":76}},
+                  "adaptiveStyles":{
+}}],
+              "interactionMap":{
+                "onClick":{
+                  "description":"OnClick",
+                  "cases":[{
+                      "description":"用例 1",
+                      "isNewIfGroup":false,
+                      "actions":[{
+                          "action":"linkWindow",
+                          "description":"在 当前窗口 打开 选择课程",
+                          "target":{
+                            "targetType":"page",
+                            "url":"选择课程.html",
+                            "includeVariables":true},
+                          "linkType":"current"}]}]}},
+              "tabbable":true,
+              "images":{
+                "normal~":"images/选择学期/u39.png"}},
+{
+              "id":"02816867bfd24033987ea8ba5a4420ec",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":182,
+                  "y":235},
+                "size":{
+                  "width":182,
+                  "height":82}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"0e53cdb384c940c39d5cc58207881513",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":182,
+                      "y":235},
+                    "size":{
+                      "width":182,
+                      "height":82}},
+                  "adaptiveStyles":{
+}}],
+              "interactionMap":{
+                "onClick":{
+                  "description":"OnClick",
+                  "cases":[{
+                      "description":"用例 1",
+                      "isNewIfGroup":false,
+                      "actions":[{
+                          "action":"linkWindow",
+                          "description":"在 当前窗口 打开 选择课程",
+                          "target":{
+                            "targetType":"page",
+                            "url":"选择课程.html",
+                            "includeVariables":true},
+                          "linkType":"current"}]}]}},
+              "tabbable":true,
+              "images":{
+                "normal~":"images/选择学期/u49.png"}},
+{
+              "id":"fb7ddb304cee498b9232263db0c4f770",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":182,
+                  "y":317},
+                "size":{
+                  "width":182,
+                  "height":89}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"4b39eace83964c0da0a93ec8f2e4767b",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":182,
+                      "y":317},
+                    "size":{
+                      "width":182,
+                      "height":89}},
+                  "adaptiveStyles":{
+}}],
+              "interactionMap":{
+                "onClick":{
+                  "description":"OnClick",
+                  "cases":[{
+                      "description":"用例 1",
+                      "isNewIfGroup":false,
+                      "actions":[{
+                          "action":"linkWindow",
+                          "description":"在 当前窗口 打开 选择课程",
+                          "target":{
+                            "targetType":"page",
+                            "url":"选择课程.html",
+                            "includeVariables":true},
+                          "linkType":"current"}]}]}},
+              "tabbable":true,
+              "images":{
+                "normal~":"images/选择学期/u59.png"}},
+{
+              "id":"91e3736a4b334ea9b34d0082a36c2e2d",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":182,
+                  "y":406},
+                "size":{
+                  "width":182,
+                  "height":83}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"c38f4b32078547d2873927c42be9d506",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":182,
+                      "y":406},
+                    "size":{
+                      "width":182,
+                      "height":83}},
+                  "adaptiveStyles":{
+}}],
+              "interactionMap":{
+                "onClick":{
+                  "description":"OnClick",
+                  "cases":[{
+                      "description":"用例 1",
+                      "isNewIfGroup":false,
+                      "actions":[{
+                          "action":"linkWindow",
+                          "description":"在 当前窗口 打开 选择课程",
+                          "target":{
+                            "targetType":"page",
+                            "url":"选择课程.html",
+                            "includeVariables":true},
+                          "linkType":"current"}]}]}},
+              "tabbable":true,
+              "images":{
+                "normal~":"images/选择学期/u69.png"}},
+{
+              "id":"c47b66e4a00f46559a265dd5c043c3df",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"16px",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "lineSpacing":"11px",
+                "location":{
+                  "x":182,
+                  "y":489},
+                "size":{
+                  "width":182,
+                  "height":78}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"3718436060a74c1a9f32eb547fe1506b",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontSize":"16px",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "lineSpacing":"11px",
+                    "location":{
+                      "x":182,
+                      "y":489},
+                    "size":{
+                      "width":182,
+                      "height":78}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/选择学期/u79.png"}}]}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "d08646e3ecd947b0a3abb8fa1d5e2574":{
+      "scriptId":"u0"},
+    "c9a356f95819427aa7e751300dba571c":{
+      "scriptId":"u1"},
+    "d7cf307baa4d45b3b150d3ef910a8732":{
+      "scriptId":"u2"},
+    "2439dc207e9544f38f8f605067f7a893":{
+      "scriptId":"u3"},
+    "e75b311bf94b4502ade9f8f573296941":{
+      "scriptId":"u4"},
+    "67f54e31d3a2441aa2befe95c47042b9":{
+      "scriptId":"u5"},
+    "e5e782289cdd45bca3d37ce89fb99088":{
+      "scriptId":"u6"},
+    "094f91a229d94c069f21a6a7fb95bbad":{
+      "scriptId":"u7"},
+    "cd10cbe623524a87b2fd6658b26c67b1":{
+      "scriptId":"u8"},
+    "3c83b0d0ebe94bdab13738ee3c1310a6":{
+      "scriptId":"u9"},
+    "fa1c9080429545e5b2175b7063f93d6c":{
+      "scriptId":"u10"},
+    "9d14d33c195f4d3c977374b3f6c46359":{
+      "scriptId":"u11"},
+    "3d8de90f41184fabae808f1d5a30ec3b":{
+      "scriptId":"u12"},
+    "8c1538a15dbd40d496a75f9e7ee3efa8":{
+      "scriptId":"u13"},
+    "2c6c0651b596407d8c5a9a23cfcbd3b4":{
+      "scriptId":"u14"},
+    "b8b69e9be893488c8a762af2f5e6441f":{
+      "scriptId":"u15"},
+    "4b3e5f0fed894d72be703f0f0543e340":{
+      "scriptId":"u16"},
+    "dc3b1535249143488b6dd2b4148a6b84":{
+      "scriptId":"u17"},
+    "359cb923a8d8413d8d45ecbf51ed9e92":{
+      "scriptId":"u18"},
+    "ebd7d8a760744a0ba6de00e94cc64b93":{
+      "scriptId":"u19"},
+    "e16f530515fc4ecf85d6aba8cdb1111f":{
+      "scriptId":"u20"},
+    "725f7aae23f047499e66a0f4b489b1cb":{
+      "scriptId":"u21"},
+    "17fb63ad504f48418b2b9b9ce16130f3":{
+      "scriptId":"u22"},
+    "6f1be59fb0ce4e57b8b62f7da44d54cd":{
+      "scriptId":"u23"},
+    "dc9f8d28d36c40a1ba0415719e749dae":{
+      "scriptId":"u24"},
+    "8ca08ed511c942e1b87002772c02c7df":{
+      "scriptId":"u25"},
+    "9a1bcd60c8c84fcba290376fea71ddc7":{
+      "scriptId":"u26"},
+    "cb6b6a11499a40289424c4b3ab6dd904":{
+      "scriptId":"u27"},
+    "6d3e7f0904154bdaa8e1398a0c2d7b79":{
+      "scriptId":"u28"},
+    "01b52b08d980439ca08c37a6b9843deb":{
+      "scriptId":"u29"},
+    "b357b03bce774f41b20e1c873bdd917a":{
+      "scriptId":"u30"},
+    "319f1174b9194bdbb026b74b890650f9":{
+      "scriptId":"u31"},
+    "c2df9db555a4407e95b0ba15dc02a57a":{
+      "scriptId":"u32"},
+    "1ab9f0095f814c79a02a8d04c2f8a4b9":{
+      "scriptId":"u33"},
+    "1b3e4f04db5e47719697144f963c45b0":{
+      "scriptId":"u34"},
+    "fef3fb6910074630abbb0570ebb0c512":{
+      "scriptId":"u35"},
+    "6d06ae8a067d4347ab9ac6f15164d93a":{
+      "scriptId":"u36"},
+    "2882db96f1d54a58b49d3c206a81feaa":{
+      "scriptId":"u37"},
+    "90f9b0027032427f838f897572f6b6d4":{
+      "scriptId":"u38"},
+    "c37bf4bc736a45669e60097f75107298":{
+      "scriptId":"u39"},
+    "3d377de5610d420fbeee5c38d2ceb6d6":{
+      "scriptId":"u40"},
+    "51aabbad391a41e4a70882205871a4a4":{
+      "scriptId":"u41"},
+    "e8b8548f9bf9407f9245039403a99f88":{
+      "scriptId":"u42"},
+    "0eecd6c768374066b80dc583e7fe7a8f":{
+      "scriptId":"u43"},
+    "5c3a6fdc7a204091beebcfd33b75d83e":{
+      "scriptId":"u44"},
+    "2a52b0b379db4195825686ba51233217":{
+      "scriptId":"u45"},
+    "b97543bc945849ba8e90af9428028d52":{
+      "scriptId":"u46"},
+    "47291917a1c74e5ea610e7c888bfc295":{
+      "scriptId":"u47"},
+    "bcef65a991e94fd398cd67511359a327":{
+      "scriptId":"u48"},
+    "b0a89e864ca94fb0837900d3dce98f2f":{
+      "scriptId":"u49"},
+    "068129dd87124911998deab6d881b9b9":{
+      "scriptId":"u50"},
+    "02816867bfd24033987ea8ba5a4420ec":{
+      "scriptId":"u51"},
+    "0e53cdb384c940c39d5cc58207881513":{
+      "scriptId":"u52"},
+    "dbcb5e596e62456a8970a279f0d19f2c":{
+      "scriptId":"u53"},
+    "30eddd4a1c3d48daae5fdd5e8cd5e9a7":{
+      "scriptId":"u54"},
+    "ec38f8db4b404ab58bee69a288f593c9":{
+      "scriptId":"u55"},
+    "58a57d562fc6436d885c5db8453e7e6e":{
+      "scriptId":"u56"},
+    "0ff6f3fb0c394f53aa6f44f6c081fe5b":{
+      "scriptId":"u57"},
+    "c9ddc03875cf4feca57f1e2ea2b5e0a4":{
+      "scriptId":"u58"},
+    "8a73c8fe54c54f16bf1b65e641b25481":{
+      "scriptId":"u59"},
+    "d35b1848bdd34221a9802feb913b29b8":{
+      "scriptId":"u60"},
+    "fb7ddb304cee498b9232263db0c4f770":{
+      "scriptId":"u61"},
+    "4b39eace83964c0da0a93ec8f2e4767b":{
+      "scriptId":"u62"},
+    "4e8d18c3394242e4b3bc763e427f250e":{
+      "scriptId":"u63"},
+    "125d23c8c25843108d8169d901e4c979":{
+      "scriptId":"u64"},
+    "68beae6ca45b4eae84f6dc6ead17109c":{
+      "scriptId":"u65"},
+    "c579363ed9c44fd4a977f1a973f1babe":{
+      "scriptId":"u66"},
+    "93e141847ab140ac8f43ebecf8cedf9f":{
+      "scriptId":"u67"},
+    "b8d3e9c60e094e5c9155669910b5e640":{
+      "scriptId":"u68"},
+    "a6d70288c3c946559fec6b8d7effcb44":{
+      "scriptId":"u69"},
+    "4f283bb110e34843ad8aed9fd9c9c731":{
+      "scriptId":"u70"},
+    "91e3736a4b334ea9b34d0082a36c2e2d":{
+      "scriptId":"u71"},
+    "c38f4b32078547d2873927c42be9d506":{
+      "scriptId":"u72"},
+    "5bc78f3a2df048b2b36c1601e393e2d0":{
+      "scriptId":"u73"},
+    "7ca5045d93b2436c8583f1c2f43d0f24":{
+      "scriptId":"u74"},
+    "d321ed72b4184ca093a3c7219a794d91":{
+      "scriptId":"u75"},
+    "2c69e88fa7b543d7a71918f1ab469519":{
+      "scriptId":"u76"},
+    "1765651056174ba5a1b13cdb28956c59":{
+      "scriptId":"u77"},
+    "49c9dd049f354d18a98f215c65f36e28":{
+      "scriptId":"u78"},
+    "b0c6f6ec69e84388afa2c89476ac07e6":{
+      "scriptId":"u79"},
+    "4c41fd59de754f2aaa2f3affa0f316de":{
+      "scriptId":"u80"},
+    "c47b66e4a00f46559a265dd5c043c3df":{
+      "scriptId":"u81"},
+    "3718436060a74c1a9f32eb547fe1506b":{
+      "scriptId":"u82"},
+    "463db115d382423cbee7d38115a1fe82":{
+      "scriptId":"u83"},
+    "76c112cbbef84145821dc6578f569672":{
+      "scriptId":"u84"},
+    "d7a86c6f2f514856b41548f67a995137":{
+      "scriptId":"u85"},
+    "caacbf1c36da4e5393551d798fcdfa3b":{
+      "scriptId":"u86"},
+    "6db438c988294d2a8e9a1768fd527d03":{
+      "scriptId":"u87"},
+    "0e1d2156bf6d407d870d39f441f09423":{
+      "scriptId":"u88"}}});
