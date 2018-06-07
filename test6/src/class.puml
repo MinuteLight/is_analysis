@@ -4,6 +4,7 @@ class users {
     <b>user_id</b> （用户ID）
     name （用户真实姓名）
     github_username （用户GitHub账号）
+    update_date （用户GitHub账号修改日期）
     password （用户密码）
     disable （用户是否禁用）
 }
@@ -13,7 +14,7 @@ class teachers{
     <b>teacher_id</b> （老师工号）
     department （老师所属部门）
     teacher_term（老师教授的学期）
-    teacher_course（老师教授的课程）
+    teacher_discipline（老师教授的课程）
 }
 class students{
     <b>student_id</b> （学号）
@@ -21,7 +22,7 @@ class students{
     result_sum（成绩汇总）
     web_sum （网站正确与否汇总）
     student_term（学生选课的学期）
-    student_course（学生选的课程）
+    student_discipline（学生选的课程）
 }
 
 users <|- students
@@ -49,14 +50,14 @@ class terms{
     term_name（学期名称）
 }
 
-class courses{
-    <b>course_id</b>(课程编号)
-    course_name(课程名）
+class disciplines{
+    <b>discipline_id</b>(课程编号)
+    discipline_name(课程名）
 }
 
 class select{
     <b>select_id</b>（选课ID）
-    <b>course_id</b>（课程编号）
+    <b>discipline_id</b>（课程编号）
     teacher_id（老师工号）
     student_id（学生学号）
     term_id（学期编号）
@@ -73,8 +74,8 @@ students "1" -- "n"  grades
 experiments "1" -- "n"  grades
 teachers "1" -- "n"  select
 students "1" -- "n"  select
-terms "1" -- "n"  courses
-courses "1" -- "n" experiments
+terms "1" -- "n"  disciplines
+disciplines "1" -- "n" experiments
 terms "1" -- "n"  select
 
 @enduml

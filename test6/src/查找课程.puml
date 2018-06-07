@@ -1,0 +1,9 @@
+@startuml
+title 基于GitHub的实验管理平台--查找课程的顺序图
+actor users
+users->teachers:用户以老师的类型登录
+alt 如果用户是学生，和老师的步骤是一样
+end
+teachers->terms:老师选择对应的学期
+terms->disciplines:查看具体课程
+@enduml

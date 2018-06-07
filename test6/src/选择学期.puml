@@ -1,0 +1,10 @@
+@startuml
+     title 基于GitHub的实验管理平台--选择学期的顺序图
+     actor users
+     ==教师选择课程==
+     users->teachers:用户以老师的类型登录
+     teachers->terms:老师选择对应的学期
+     ==学生选择课程==
+     users->students:用户以学生的类型登录
+     students->terms:学生选择对应的学期
+@enduml

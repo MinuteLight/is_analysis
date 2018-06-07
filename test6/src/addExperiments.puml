@@ -1,0 +1,7 @@
+@startuml
+title 基于GitHub的实验管理平台--增加实验的顺序图
+actor users
+users->teachers:用户必须先以老师的身份登录
+teachers->experiments:输入实验相关信息，和具体链接
+experiments->disciplines:返回实验具体相关信息
+@enduml

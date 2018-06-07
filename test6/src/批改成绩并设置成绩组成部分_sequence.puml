@@ -1,0 +1,14 @@
+@startuml
+title 基于GitHub的实验管理平台--批改成绩并设置成绩组成部分用例的顺序图
+actor teachers
+== 查看成绩 ==
+teachers -> students : 输入学号
+students -> grades
+grades->sections : 通过点击具体实验链接可查看具体分数
+grades -> experiments
+experiments--> teachers:  每个实验的信息、成绩、具体评分项和评语
+== 评定成绩 ==
+teachers->sections: 录入每个实验具体项的成绩
+sections -> grades : 系统自动加和所有评分项的分数，返回给总成绩
+
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+         title 基于GitHub的实验管理平台--选择学期用例的顺序图
+         actor Users
+         Users--> students :登陆实验管理xitong （type：students)
+         Users--> teachers: 登陆实验管理系统（type:teachers)
+         students-->terms:选择学期（如果要进行选课只能选择当前学期选课）
+         teachers--> terms:选择学期（如果要进行选课只能选择当前学期选课）
+
+@enduml
