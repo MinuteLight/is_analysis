@@ -19,13 +19,13 @@
 - 系统自动计算每个学生的所有实验的平均分。
 
 ## 2.系统总体结构
-![](images/structure.png)
+![](structure.png)
 
 ## 3.用例图设计 [源码](src/usercase.puml)
-![](images/usercase.png)
+![](usercase.png)
 
 ## 4.类图设计 [源码](src/class.puml)
-![](images/class.png)
+![](class.png)
 
 ## 5.数据库设计
 - ### [参见数据库设计](数据库设计.md)
