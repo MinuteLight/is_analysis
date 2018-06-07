@@ -31,7 +31,7 @@
 - ### [参见数据库设计](数据库设计.md)
 
 ## 6. 用例及界面详细设计
-- ### [“登陆”用例](./用例/登陆.md),[界面](https://minutelight.github.io/is_analysis/test6/ui/home.html)
+- ### [“登录”用例](./用例/登录.md),[界面](https://minutelight.github.io/is_analysis/test6/ui/home.html)
 - ### [“注销”用例](./用例/登出.md),[界面](https://minutelight.github.io/is_analysis/test6/ui/home.html)
 - ### [“学生查询个人信息”用例](./用例/查看用户信息.md),[界面](https://minutelight.github.io/is_analysis/test6/ui/学生个人信息查询.html)
 - ### [“老师查询个人信息”用例](./用例/查看用户信息.md),[界面](https://minutelight.github.io/is_analysis/test6/ui/教师个人信息查询.html)
