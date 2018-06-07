@@ -1,5 +1,5 @@
 ## 1.系统总体结构
-![](images/总体结构图.png)
+![](images/structure.png)
 
 ## 2.界面设计
 ![](ui/登出-首页界面.png)
