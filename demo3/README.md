@@ -32,7 +32,7 @@
 
 ## 6. 用例及界面详细设计
 - ### [“登陆”用例](./用例/登陆.md),[界面](https://minutelight.github.io/is_analysis/demo3/ui/home.html)
-- ### [“注销”用例](./用例/登出.md),[界面](https://JasonChenhx.github.io/is_analysis/demo3/ui/home.html)
+- ### [“注销”用例](./用例/登出.md),[界面](https://minutelight.github.io/is_analysis/demo3/ui/home.html)
 - ### [“学生查询个人信息”用例](./用例/查找课程.md),[界面](https://minutelight.github.io/is_analysis/demo3/ui/学生个人信息查询.html)
 - ### [“老师查询个人信息”用例](./用例/查找课程.md),[界面](https://minutelight.github.io/is_analysis/demo3/ui/教师个人信息查询.html)
 - ### [“学生选课”用例](./用例/选择课程.md),[界面](https://minutelight.github.io/is_analysis/demo3/ui/学生选课.html)
