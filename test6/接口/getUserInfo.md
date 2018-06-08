@@ -29,7 +29,7 @@
             "class_dept":"15级软工二班"
             "github_username":"MinuteLight",
             "type":"学生"    
-            "discipline_name":"信息系统分析与设计"        
+            "course_name":"信息系统分析与设计"        
         }
  
 - 返回参数说明：    
@@ -43,4 +43,4 @@
   |class_dept|班级或者部门名称|
   |github_username|gitHub用户名|
   |type|用户类型：老师或者学生|
-  |discipline_name|选课名称| 
+  |course_name|选课名称| 
