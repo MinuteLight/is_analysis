@@ -1,5 +1,5 @@
 # 接口：getOneStudentResults  [返回](../README.md)
-用例： [查看成绩](../用例/查看成绩.md)，[评定成绩](../用例/批改成绩并设置成绩组成部分.md)
+用例： [查看成绩](../用例/查看成绩.md)，[评定成绩](../用例/批改成绩.md)
 
 - 功能：
     返回一个学生的所有实验成绩和实验评价。
@@ -25,19 +25,19 @@
         {         
             "status": true,
             "info": null,    
-            "student_id": "201510414401", 
-            "github_username": "JasonChenhx", 
-            "class": "软件(本)15-4", 
-            "name": "陈惠翔", 
+            "student_id": "201511606101", 
+            "github_username": "MinuteLight", 
+            "class": "软件(本)15-2", 
+            "name": "毕榆坚", 
             "total": 6,
-            "avgresult":90.5,       
+            "avgresult":100,       
             "data": [
                 {
                 "test_id":1,
                 "web_exists": true, 
                 "result": 91, 
-                "grades_specific":"档整体：20、用例图及规约：10、……"
-                "comment":"类图和接口高度保持一致，界面也很美观，也有自己的想法，做得很好",
+                "grades_specific":"不错"
+                "comment":"很好",
                 "update_date": "2018-04-02 13:48:01"
                 "grades_percent":"20%"
                 }, 
