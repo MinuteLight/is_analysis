@@ -26,8 +26,8 @@
             "data": [
                 "test_id":1,
                 "result": 91, 
-                 "grades_specific":"档整体：20、用例图及规约：10、……"
-                "comment":"类图和接口高度保持一致，界面也很美观，也有自己的想法，做得很好",
+                 "grades_specific":"不错"
+                "comment":"完美",
                 "grades_percent":"20%"
                 }, 
               ] 
