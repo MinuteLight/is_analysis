@@ -1,0 +1,30 @@
+﻿@startuml
+autonumber
+hide footbox
+actor student as s
+participant 查看成绩界面 as c
+participant term as t
+participant selectCourse as ec
+participant experiment as e
+participant score as sc
+activate s
+s->c:选择学期
+activate c
+c->t:选择学期
+activate t
+t->ec:请求当前学生当前\n学期的所选课程
+activate ec
+ec->c:返回所选课程列表
+deactivate ec
+c->e:请求所有课程的所有实验
+activate e
+e->c:返回所有实验
+deactivate
+c->sc:请求所有实验的所有评分项成绩
+activate sc
+sc->c:返回
+deactivate sc
+c->s:显示所有成绩
+deactivate c
+deactivate s
+@enduml
