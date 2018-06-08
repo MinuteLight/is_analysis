@@ -41,7 +41,7 @@
 - ### [“老师选课”用例](./用例/学生和老师选课.md),[界面](https://minutelight.github.io/is_analysis/test6/ui/教师添加课程.html)
 - ### [“实验管理”用例](./用例/增加实验.md),[界面](https://minutelight.github.io/is_analysis/test6/ui/教师实验管理.html)
 - ### [“学生列表”用例](./用例/学生列表.md),[界面](https://minutelight.github.io/is_analysis/test6/ui/查询学生成绩.html)
-- ### [“批改成绩”用例](./用例/批改成绩.md),[界面](https://minutelight.github.io/is_analysis/test6/ui/评改成绩.html)
+- ### [“批改成绩”用例](./用例/批改成绩.md),[界面](https://minutelight.github.io/is_analysis/test6/ui/教师成绩评定.html)
 - ### [“查看成绩”用例](./用例/查看成绩.md),[界面](https://minutelight.github.io/is_analysis/test6/ui/学生个人主页.html)
 - ### [“老师修改用户信息”用例](./用例/修改用户信息.md),[界面](https://minutelight.github.io/is_analysis/test6/ui/教师个人信息修改.html)
 - ### [“老师查看个人信息”用例](./用例/查看用户信息.md),[界面](https://minutelight.github.io/is_analysis/test6/ui/教师个人信息查看.html)
